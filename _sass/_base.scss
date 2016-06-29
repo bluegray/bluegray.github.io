@@ -100,7 +100,6 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
     }
 }
 
@@ -201,6 +200,10 @@ pre {
 
         path {
             fill: $grey-color;
+
+            a:hover & {
+                fill: blue;
+            }
         }
     }
 }

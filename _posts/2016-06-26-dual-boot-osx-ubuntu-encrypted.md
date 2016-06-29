@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: Dual boot OS X and Ubuntu 16.04 with encrypted partitions
 permalink: /dual-boot-osx-and-ubuntu-16.04-with-encrypted-partitions.html
 published: true
+categories: ubuntu linux
 ---
 
 # Outline
