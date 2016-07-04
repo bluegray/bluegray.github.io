@@ -16,10 +16,5 @@ twitter_username: bluegray
 github_username:  bluegray
 
 # Build settings
-markdown: redcarpet
-
 kramdown:
   input: GFM
-
-redcarpet:
-  extensions: ["autolink", "smart"]

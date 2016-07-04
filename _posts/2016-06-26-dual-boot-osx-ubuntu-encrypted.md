@@ -74,3 +74,6 @@ http://ubuntuforums.org/showthread.php?t=2227981
 
 https://wiki.ubuntu.com/Kernel/Dev/KernelGitGuide?action=show&redirect=KernelTeam%2FKernelGitGuide
 https://bugzilla.kernel.org/show_bug.cgi?id=105051
+
+### LightDM dpi
+http://askubuntu.com/questions/540863/how-can-i-make-lightdm-scale-on-a-hidpi-screen
