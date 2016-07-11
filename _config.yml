@@ -16,5 +16,6 @@ twitter_username: bluegray
 github_username:  bluegray
 
 # Build settings
+markdown: kramdown
 kramdown:
   input: GFM
