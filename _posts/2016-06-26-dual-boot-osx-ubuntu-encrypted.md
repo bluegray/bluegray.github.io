@@ -6,7 +6,7 @@ published: true
 categories: ubuntu linux
 ---
 
-## Partition layout
+## Partition layout on MacbookPro11,5
 
 `sda1`: Existing EFI boot Partition \\
 `sda2`: Existing OSX installation \\
