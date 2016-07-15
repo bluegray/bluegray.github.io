@@ -9,7 +9,7 @@
 title: bluegray
 email: bluegray@bluegray.co.za
 description: > # this means to ignore newlines until "baseurl:"
-  Nothing here move along.
+  Nothing to see here, move along.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bluegray.github.io" # the base hostname & protocol for your site
 twitter_username: bluegray
